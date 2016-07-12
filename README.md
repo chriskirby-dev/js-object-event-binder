@@ -1,4 +1,4 @@
-# object-event-binder
+# Javascript Object Event Binder
 Simple function that will add events to any object passed to it.
 
 # Usage:
